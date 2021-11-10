@@ -14,7 +14,7 @@ import com.asteelflash.ext.Vfs;
 
 import java.io.File;
 /**
- * Unit test for simple App.
+ * Unit test for simple App.dir
  */
 public class AppTest {
 	/**
